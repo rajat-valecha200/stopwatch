@@ -1,0 +1,17 @@
+.SW {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .time {
+    font-size: 48px;
+    margin: 20px 0;
+  }
+  
+  .controls button {
+    font-size: 16px;
+    padding: 10px;
+    margin: 0 5px;
+    cursor: pointer;
+  }
+  
